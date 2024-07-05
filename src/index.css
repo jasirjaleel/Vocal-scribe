@@ -9,6 +9,9 @@
 h1, h2, h3 .bold {
   font-family: 'Poppins',sans-serif;
 }
+::-webkit-scrollbar {
+  display: none; 
+}
 
 .specialBtn {
   background: white;
